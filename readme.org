@@ -1,17 +1,12 @@
 * BlueShield
 
-> emulates challanges their backend servers
+some tools for defense
+
+** server.js
+
+server.js runs a process on a raw socket. This is for emulating ctf challanges their backends.
 
 
-** features
+** tarpit
 
-pipes to / from a process on a port
-
-** todo
-
-[ ] concurrent connections
-
-** would like
-
-[ ]  
-
+its a tarpitting tool, lets you specify what port to delay connections on. its for when you want portscanners to suffer by making them very slow
