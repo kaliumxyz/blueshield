@@ -1,0 +1,17 @@
+* BlueShield
+
+> emulates challanges their backend servers
+
+
+** features
+
+pipes to / from a process on a port
+
+** todo
+
+[ ] concurrent connections
+
+** would like
+
+[ ]  
+
